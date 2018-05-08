@@ -1,0 +1,71 @@
+﻿#khunghinh{
+	width : 500px;
+	height :720px;
+	border : 1px solid;
+	border-color : #0033ff;
+	border-width : 1px;
+	margin: -10 500 100 500;
+}
+
+.profile h3{
+	background-image: url(img/title_bg.gif) ;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-family: Georgia;
+}
+
+.info{
+	height: 100;
+	margin-left: 110;
+	margin-top: -97.5;
+	overflow: scroll;
+}
+.info li{
+	margin-left: -40;
+	font-family : Georgia;
+	font-size: 16;
+	list-style-type: none;
+}	
+
+
+.facts-contain li{
+	list-style-image: url(img/star.png);
+	font-family: Georgia;
+	margin: -1 0 0 50;
+	font-size: 16;
+}
+.facts-contain ul{
+	margin-top: -20;
+}
+.fact h3{
+	font-family: Georgia;
+	font-size: 16;
+}
+
+.post-info a{
+	text-decoration: none;
+}
+.post p{
+	margin-left: 200;
+	
+}
+.post-contain: {
+	background-image: url(img/title_bg.gif);
+	margin: auto;
+}
+.comment h4{
+	margin-left: 200;
+}
+
+.comment table text{
+	margin: auto;	
+}
+
+.comment table textarea{
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-top: -45;
+}
+
+
+
