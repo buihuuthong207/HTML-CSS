@@ -45,26 +45,37 @@
 .post-info a{
 	text-decoration: none;
 }
+
+
 .post p{
-	margin-left: 200;
+	margin-left: 100;
+	margin-bottom: -0;
+	margin-top: 0;
+	font-family: Georgia;
+}
+
+.post-contain {
 	
+	margin-bottom: 0;
 }
-.post-contain: {
-	background-image: url(img/title_bg.gif);
-	margin: auto;
-}
+
+
 .comment h4{
 	margin-left: 200;
+	font-family: Georgia;
 }
 
-.comment table text{
-	margin: auto;	
-}
 
-.comment table textarea{
+.comment table input{
 	margin-bottom: 0;
 	margin-left: 0;
-	margin-top: -45;
+	margin-top: -4;
+}
+.comment table textarea{
+
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-top: -2;
 }
 
 
